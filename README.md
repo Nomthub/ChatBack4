@@ -1,3 +1,13 @@
+# Task - Build a chatBot using dialogflow and nodeJS
+
+A chatbot is a software that communicates with users via a conversational interface be it textual or voice based.
+Use Node.js framework and Dailogflow to build a Chatbot and to store documents containing:
+
+   1. A defined classification or name of user input. This is the intent of the input/response interaction.
+   2.	A list of possible responses to send back to the user.
+   3.	A context value of the intent used to guide or filter which response lists makes sense to return.
+   4.	A set of patterns of potential user input. The patterns are used to build the model that will predict the probabilities of intent classifications used to determine responses.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
