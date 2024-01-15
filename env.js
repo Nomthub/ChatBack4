@@ -1,8 +1,8 @@
 export const dialogflowConfig = {
     "type": "service_account",
     "project_id": "chatter-ycle",
-    "private_key_id": "c8b9d83672daaa1979f77f4fc43f10d08dd80d01",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDU+W86iClPVC/7\ncEOXLJAQM2k6IMj32LvmtMUT1o3ZMMFZSDMH+b5JnRlqXFL1bHNJY6nT1mgGQK+a\nEhPp5SzkhY2WcLgPxhdLCNqIC+wBZc6pPMf+Rq4uH4YuBe4QsK/pDlWs/Va2kQIK\np4tM+Ka362HsTX8L/iwAvMWP0ezNE8T4rK+NGT3Gs6H9MPJtqx4oHBOzKDUCHk/p\ntbQvguaYfnTDxRRWEBKZ6wtp3YlTJTJdpH20XLYIyax3bcX5lcYgo8p6ajEhBYOE\nr6RFrypqMRFS+HTtXOlpsS7ROG9oxL6EQLeReNlMl2WCDRMF5Dv+E9jV9FIyNSw7\nxYsUYHndAgMBAAECggEAB+Z8arBSXxb6LSGd4EIyfQPOxF94Tesn23m3brlnrv7f\nHwxNtMJ6fXtAManc30o+nJQcGYz0V84lmQQ0cARPduckf6u3qDqVZGXXrlYRGkbW\nUQ8S0YBdt4S8vYE1ec5bOC5ynWWE4tf45TGeVpZmSp/cP2brNc6uKk4rtDPdWyU1\ne+5H1mUcEobFvmzx4fnIfEZIWZ/wSqCisSC949vcC2DQWcg6AUj4L2KkJee6/q8Z\nD2jsr4FmC5VoZXrVaCScmNGJm3BsXpApTzsaLB4yRbljVU/Uv3YGBP0+BX1RpfAL\n9a1aONpUSLTKIrFBiTZdAWb2DUkQBeRbLPy6pNv7IQKBgQDxkRMOPnDZQxtMJGHa\nNaVdPssgI9XAvkdSmJNcw1xjYF57Tlo+WoDwlrJtNTzQYBzpd3vKXLgdEynsvxzj\n3Uyaca5yXuYvsgQt6rqou0/pboDBBhQ0lC6lo7i2EVFIP2VviukNLAksyIa5k4Ek\n4928REzXasr31iAI63EDrJcb4wKBgQDhswVXzkb5eOfePQ3GbmSv5KwZqleuZu+z\np3KRWGdLg1Y+uy7oE2UjYRYsy/KHafd2o94LGGIGIsAvFRv5qlj1SnCMj9XtUoqR\nSh5M3mMq2tLVucqTKqZXBM7gXA2G2pGPVKck1CfPBBesXFu/ik7ac0COxxPrvT9t\nTgALryl/PwKBgFkW8fos2R2nfCfGuzfo1QXgpLVDwg+FnXQ+xQpPGoGkBvRe3zVj\n123jhgZ0verzp3YLFOJ684P1j1661QLMmPXUu0t+6FHqy1PL3+9etYgXsvB9N3J0\nvAdmrDapiFqm1tgeWPj8pp2XjuheGCDs0NggMF66CgUBOWtQuatrOYeVAoGBAKdT\nfJOTV2UesPA/XVYOg9EvfDPu6OBgajdL3hFJdBM0xJzvUyA1ONcY5ELD1QN1mUQ4\nyqZ5JjscSlTdlobrNtZroLNk85nlhtueEoa0nNqproNLIZcnmHiNFP6a4GBo7F9R\nyDTyoKzGgPKE6nQ/iqRDq8nuZ6NvA3X6zOfcrawrAoGAdNohdcWryiWL8995tWvk\nAqh2ewbk1BaiCgW9EZx7d983Jc4Ge9rK3c7kGAdbNvS7i3jqpcxcEYwjWHGH5vi3\nigsUnc/f6GZE2OmNxdGrPU9iz5xVHRM7MwIgf4i4T51F8fj2xxUmjQ4sPIASt09K\n7dzuSJHwVcnSk7IOC5eD/AA=\n-----END PRIVATE KEY-----\n",
+    "private_key_id": "",
+    "private_key": "",
     "client_email": "chatterservice@chatter-ycle.iam.gserviceaccount.com",
     "client_id": "115668502421382414804",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
